@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![84zume's GitHub stats](https://github-readme-stats.vercel.app/api?username=84zume&show_icons=true&theme=radical)
+
 <!--
 **84zume/84zume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
