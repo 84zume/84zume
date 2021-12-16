@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Information Services International-Dentsu, Ltd.
-
+- 💬 Advanced Certified ScrumMaster
+ 
 <!--
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
