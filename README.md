@@ -27,12 +27,14 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/84zume/contributions.svg" />
   </a>
 </p>
-
+ 
+<!--
 ### Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=84zume&no-frame=true&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
-### GitHub Streak
+ ### GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=84zume&theme=onedark_duo)](https://git.io/streak-stats)
  
 ### GitHub Status
